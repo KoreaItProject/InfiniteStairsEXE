@@ -2,6 +2,8 @@
 
 https://github.com/KoreaItProject/InfiniteStairs
 
+StartGame.exe를 눌러 바로 실행합니다.
+
 # 무한의 계단 대전 게임
  
 
